@@ -1,0 +1,32 @@
+{"input_data": {
+  "dataframe_split": {
+    "columns": [
+      "Age",
+      "Credit amount",
+      "Duration",
+      "Sex_female",
+      "Sex_male",
+      "JOB_highly skilled",
+      "JOB_highly_skilled",
+      "JOB_skilled",
+      "JOB_unskilled",
+      "HOUSING_FREE",
+      "HOUSING_OWN",
+      "HOUSING_RENT",
+      "Purpose_?",
+      "Purpose_business",
+      "Purpose_car",
+      "Purpose_domestic appliances",
+      "Purpose_education",
+      "Purpose_furniture/equipment",
+      "Purpose_radio/TV",
+      "Purpose_repairs",
+      "Purpose_vacation/others"
+      ],
+    "data": [
+      [30,2333,30,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0],
+      [20,3333,30,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0]
+    ]
+  }
+}
+}

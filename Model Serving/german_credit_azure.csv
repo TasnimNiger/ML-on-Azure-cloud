@@ -1,0 +1,101 @@
+Age,Sex,JOB,HOUSING,Credit amount,Duration,Purpose,risk
+67,male,skilled,OWN,1169,6,radio/TV,0
+22,female,skilled,OWN,5951,48,radio/TV,1
+49,male,unskilled,OWN,2096,12,education,0
+45,male,skilled,FREE,7882,42,furniture/equipment,0
+53,male,skilled,FREE,4870,24,car,1
+35,male,unskilled,FREE,9055,36,education,0
+53,male,skilled,OWN,2835,24,furniture/equipment,0
+35,male,highly skilled,RENT,6948,36,car,0
+61,male,unskilled,OWN,3059,12,radio/TV,0
+28,male,highly skilled,OWN,5234,30,car,1
+25,female,skilled,RENT,1295,12,car,1
+22,female,skilled,OWN,1567,12,radio/TV,0
+60,male,unskilled,OWN,1199,24,car,1
+32,female,unskilled,OWN,1282,24,radio/TV,1
+53,male,skilled,OWN,2424,24,radio/TV,0
+25,male,skilled,OWN,8072,30,business,0
+44,female,highly skilled,FREE,12579,24,car,1
+31,male,skilled,OWN,3430,24,radio/TV,0
+48,male,skilled,OWN,2134,9,car,0
+44,male,skilled,RENT,2647,6,radio/TV,0
+48,male,unskilled,RENT,2241,10,car,0
+44,male,skilled,OWN,1804,12,car,0
+26,male,skilled,OWN,2069,10,furniture/equipment,0
+36,male,unskilled,OWN,1374,6,furniture/equipment,0
+39,male,unskilled,OWN,426,6,radio/TV,0
+42,female,skilled,RENT,409,12,radio/TV,0
+34,male,skilled,OWN,2415,7,radio/TV,0
+63,male,skilled,OWN,6836,60,business,1
+36,male,skilled,OWN,1913,18,business,0
+27,male,skilled,OWN,4020,24,furniture/equipment,0
+30,male,skilled,OWN,5866,18,car,0
+57,male,unskilled,RENT,1264,12,business,0
+33,female,highly_skilled,OWN,1474,12,furniture/equipment,0
+25,male,unskilled,OWN,4746,45,radio/TV,1
+31,male,skilled,FREE,6110,48,education,0
+37,male,skilled,OWN,2100,18,radio/TV,1
+37,male,skilled,OWN,1225,10,domestic appliances,0
+30,male,highly_skilled,OWN,2333,30,radio/TV,0
+26,male,skilled,OWN,1158,12,radio/TV,0
+44,male,unskilled,OWN,6204,18,repairs,0
+24,male,skilled,RENT,6187,30,car,0
+58,female,unskilled,FREE,6143,48,car,1
+35,female,highly_skilled,OWN,1393,11,car,0
+39,male,skilled,OWN,2299,36,radio/TV,0
+23,female,unskilled,RENT,1352,6,car,0
+39,male,unskilled,OWN,7228,11,car,0
+28,female,skilled,OWN,2073,12,radio/TV,0
+29,male,unskilled,OWN,2333,24,furniture/equipment,0
+30,male,highly_skilled,OWN,5965,27,car,0
+25,male,skilled,OWN,1262,12,?,0
+31,male,skilled,OWN,3378,18,car,0
+57,male,skilled,FREE,2225,36,car,1
+26,male,unskilled,OWN,783,6,car,0
+31,female,skilled,OWN,9566,36,radio/TV,0
+23,female,highly_skilled,OWN,1961,18,car,0
+23,female,unskilled,RENT,6229,36,furniture/equipment,1
+27,male,skilled,OWN,1391,9,business,0
+50,male,skilled,OWN,1537,15,radio/TV,0
+61,male,highly skilled,FREE,1953,36,business,1
+25,male,skilled,OWN,14421,48,business,1
+26,female,skilled,OWN,3181,24,radio/TV,0
+48,male,skilled,OWN,5190,27,repairs,0
+29,female,skilled,OWN,2171,12,radio/TV,0
+22,male,skilled,OWN,1007,12,car,0
+37,male,skilled,FREE,1819,36,education,1
+25,female,skilled,OWN,2394,36,radio/TV,0
+30,female,skilled,OWN,8133,36,car,0
+46,male,unskilled,RENT,730,7,radio/TV,0
+51,male,highly skilled,FREE,1164,8,vacation/others,0
+41,female,unskilled,OWN,5954,42,business,0
+40,male,highly skilled,OWN,1977,36,education,1
+66,male,highly skilled,FREE,1526,12,car,0
+34,male,skilled,OWN,3965,42,radio/TV,1
+51,male,skilled,OWN,4771,11,radio/TV,0
+39,male,unskilled,OWN,9436,54,car,0
+22,male,skilled,OWN,3832,30,furniture/equipment,0
+44,female,skilled,OWN,5943,24,radio/TV,1
+47,male,skilled,OWN,1213,15,radio/TV,0
+24,female,unskilled,RENT,1568,18,business,0
+58,female,unskilled,OWN,1755,24,vacation/others,0
+52,male,unskilled,OWN,2315,10,radio/TV,0
+29,female,highly skilled,OWN,1412,12,?,0
+27,female,skilled,OWN,1295,18,furniture/equipment,0
+47,male,skilled,FREE,12612,36,education,1
+30,male,highly skilled,OWN,2249,18,car,0
+28,male,skilled,OWN,1108,12,repairs,1
+56,male,skilled,OWN,618,12,radio/TV,0
+54,male,skilled,OWN,1409,12,car,0
+33,female,unskilled,OWN,797,12,radio/TV,1
+20,male,skilled,RENT,3617,24,furniture/equipment,0
+54,male,skilled,OWN,1318,12,car,0
+58,male,skilled,RENT,15945,54,business,1
+61,female,skilled,OWN,2012,12,education,0
+34,male,skilled,OWN,2622,18,business,0
+36,male,skilled,OWN,2337,36,radio/TV,0
+36,male,highly skilled,RENT,7057,20,car,0
+41,male,unskilled,RENT,1469,24,car,0
+24,male,skilled,RENT,2323,36,radio/TV,0
+24,female,skilled,OWN,932,6,radio/TV,0
+35,male,skilled,RENT,1919,9,furniture/equipment,0
