@@ -20,3 +20,8 @@ In this notebook, I created a pipeline with three steps:
 - Step 1: Preprocessing
 - Step 2: Training
 - Step 3: Assemble Pipeline
+
+Creating a pipeline job in Azure ML creates a UI where the progress of the job can be tracked.
+
+![image](https://github.com/user-attachments/assets/f5660179-b9a9-47a1-8adb-7402dc8e3915)
+
